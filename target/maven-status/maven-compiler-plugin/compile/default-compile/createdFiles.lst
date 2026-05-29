@@ -1,0 +1,5 @@
+com/lab2/beans/Item.class
+com/lab2/servlets/UserServlet.class
+com/lab2/beans/User.class
+com/lab2/servlets/DetailServlet.class
+com/lab2/servlets/ProductListServlet.class
